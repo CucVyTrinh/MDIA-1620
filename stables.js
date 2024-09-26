@@ -20,4 +20,12 @@ let rentIntroduction = `It costs ${STABLE_MONTHLY_FEE} to board ${horseName}`;
 let stableIntroduction = `Welcome to "${horseName}'s" stable`;
 console.log(rentIntroduction);
 
+/////lab 4 code/////
+let horseNickName="CucCut";
+console.log(`His name is ${horseName} but you can call him ${horseNickName}`);
+console.log(`${horseNickName} is very cute`);
+
+let totalCost = `${(STABLE_MONTHLY_FEE*(10/100))*3}`;
+console.log(`I would save ${totalCost}$ after 3 months`);
+
 
