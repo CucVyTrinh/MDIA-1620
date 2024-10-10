@@ -29,3 +29,11 @@ let totalCost = `${(STABLE_MONTHLY_FEE*(10/100))*3}`;
 console.log(`I would save ${totalCost}$ after 3 months`);
 
 
+
+///LESSON 5////
+let isHorseInside=true;
+if (isHorseInside) [
+    console.log(horseName + " is inside")
+]
+
+
