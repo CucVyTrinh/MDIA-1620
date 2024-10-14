@@ -39,11 +39,11 @@ if (isHorseInside) [
  console.log(world.ChartArt(0));
 
 ///Assignment///
-let visitingHorse = "Gengar";
-if ((horseName === "Gilbert" && isHorseInStable) && (visitingHorse === "Strawberry" || visitingHorse === "Gengar")){
-    console.log(`${horseName} come out, ${visitingHorse} has come to visit`);
-} else if ((horseName === "Gilbert" && !isHorseInStable) && (visitingHorse === "Strawberry" || visitingHorse === "Gengar")) {
-    console.log(`${horseName} is playing around with ${visitingHorse}`);
+let firstHorse = "Meo";
+if ((horseName === "Meo" && isHorseInStable) && (firstHorse === "Strawberry" || firstHorse === "Meo")){
+    console.log(`${horseName} come out, ${firstHorse} has come to visit`);
+} else if ((horseName === "Gilbert" && !isHorseInStable) && (visitingHorse === "Strawberry" || firstHorse === "Meo")) {
+    console.log(`${horseName} is playing around with ${firstHorse}`);
 } else {
     console.log(`${horseName} has got to figure out what's happening!`);
 } 
