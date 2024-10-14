@@ -35,5 +35,8 @@ let isHorseInside=true;
 if (isHorseInside) [
     console.log(horseName + " is inside")
 ]
+ let word = "Rainbow";
+ console.log(world.ChartArt(0));
 
+ 
 
