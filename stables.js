@@ -49,6 +49,9 @@ if ((horseName === "CucPhuong" && isHorseInStable) && (firstHorseHorse === "Stra
     console.log(`${horseName} is playing alone`);
 }
 
+
+
+
 /////Lesson 6/////
 let firstHorseName = "Vinh"; 
 let secondHorseName = "Na";
@@ -58,6 +61,13 @@ console.log(`The first horse is ${firstHorseName}, he is very cute`);
 console.log(`The second horse is ${secondHorseName}, she is very shy`);
 console.log(`The third horse is ${thirdHorseName}, he is very energetic`);
 
-
-
-
+let inside=true;
+if (inside) [
+    console.log(firstHorseName + " is inside")
+]
+if (inside) [
+    console.log(secondHorseName + "is outside")
+]
+if (inside) [
+    console.log(thirdHorseName) + "is inside"
+]
