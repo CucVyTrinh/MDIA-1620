@@ -29,3 +29,22 @@ let totalCost = `${(STABLE_MONTHLY_FEE*(10/100))*3}`;
 console.log(`I would save ${totalCost}$ after 3 months`);
 
 
+
+///LESSON 5////
+let isHorseInside=true;
+if (isHorseInside) [
+    console.log(horseName + " is inside")
+]
+ let word = "Rainbow";
+ console.log(world.ChartArt(0));
+
+
+//////////////////Lesson 5 - Lab
+let firstHorse = "Meo";
+if ((horseName === "CucPhuong" && isHorseInStable) && (firstHorseHorse === "Strawberry" || firstHorse === "Meo")){
+    console.log(`${horseName} outside, ${firstHorse} playing`);
+} else if ((horseName === "CucPhuong" && !isHorseInStable) && (firstHorse === "Strawberry" || firstHorse === "Meo")) {
+    console.log(`${horseName} is playing with ${firstHorse}`);
+} else {
+    console.log(`${horseName} is playing alone`);
+}
