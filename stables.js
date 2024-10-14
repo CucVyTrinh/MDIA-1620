@@ -29,3 +29,45 @@ let totalCost = `${(STABLE_MONTHLY_FEE*(10/100))*3}`;
 console.log(`I would save ${totalCost}$ after 3 months`);
 
 
+
+///LESSON 5////
+let isHorseInside=true;
+if (isHorseInside) [
+    console.log(horseName + " is inside")
+]
+ let word = "Rainbow";
+ console.log(world.ChartArt(0));
+
+
+//////////////////Lesson 5 - Lab
+let firstHorse = "Meo";
+if ((horseName === "CucPhuong" && isHorseInStable) && (firstHorseHorse === "Strawberry" || firstHorse === "Meo")){
+    console.log(`${horseName} outside, ${firstHorse} playing`);
+} else if ((horseName === "CucPhuong" && !isHorseInStable) && (firstHorse === "Strawberry" || firstHorse === "Meo")) {
+    console.log(`${horseName} is playing with ${firstHorse}`);
+} else {
+    console.log(`${horseName} is playing alone`);
+}
+
+
+
+
+/////Lesson 6/////
+let firstHorseName = "Vinh"; 
+let secondHorseName = "Na";
+let thirdHorseName = "Ximai";
+
+console.log(`The first horse is ${firstHorseName}, he is very cute`);
+console.log(`The second horse is ${secondHorseName}, she is very shy`);
+console.log(`The third horse is ${thirdHorseName}, he is very energetic`);
+
+let inside=true;
+if (inside) [
+    console.log(firstHorseName + " is inside")
+]
+if (inside) [
+    console.log(secondHorseName + "is outside")
+]
+if (inside) [
+    console.log(thirdHorseName) + "is inside"
+]
