@@ -17,3 +17,9 @@
 
 'git clone'- this copies a version of my repository
 
+
+////lesson 6////
+> ***3 confusing things:***
+> 1. Sometimes I need to git add again
+> 2. Why my git was not authorized
+> 3. A little confusion of if else, else
