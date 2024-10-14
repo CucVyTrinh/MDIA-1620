@@ -48,3 +48,5 @@ if ((horseName === "CucPhuong" && isHorseInStable) && (firstHorseHorse === "Stra
 } else {
     console.log(`${horseName} is playing alone`);
 }
+
+//////Lesson 6/////
